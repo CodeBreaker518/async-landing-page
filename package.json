@@ -20,5 +20,8 @@
   "dependencies": {
     "dotenv": "^16.0.3"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
